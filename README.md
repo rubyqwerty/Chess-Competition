@@ -6,4 +6,5 @@
 ### 4. Фильтровать 
 ### 5. Сортировать по параметрам
 ### 6. Находить
+## Интерфейс имеет вид
 ![image](https://github.com/rubyqwerty/Chess-Competition/assets/44926523/3dd1ce5d-55cd-4674-b05b-dd1bb21a2ba9)
